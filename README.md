@@ -29,7 +29,7 @@ The platform helps tourists explore destinations, plan itineraries, and access u
 
 **Backend:**
 
-* (Add if you are using Node.js / Firebase / etc.)
+* Firebase 
 
 **Other Tools:**
 
@@ -78,13 +78,6 @@ npm install
 
 ```
 npm run dev
-```
-
----
-
-## 📸 Screenshots
-
-(Add screenshots of your UI here)
 
 ---
 
@@ -92,12 +85,6 @@ npm run dev
 
 To create a **smart, user-friendly tourism platform** that enhances the travel experience in Jharkhand by integrating modern technologies like AI, maps, and real-time tracking.
 
----
-
-## 👩‍💻 Team
-
-* Mansi Gangurde
-* (Add your team members here)
 
 ---
 
